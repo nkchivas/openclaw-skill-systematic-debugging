@@ -1,0 +1,22 @@
+{
+  "name": "systematic-debugging",
+  "version": "1.0.0",
+  "description": "OpenClaw skill: systematic-debugging",
+  "author": "OpenClaw Assistant",
+  "license": "MIT",
+  "created": "2026-02-23T11:40:13.042449",
+  "category": "skills",
+  "files": [
+    "test-pressure-1.md",
+    "condition-based-waiting.md",
+    "test-pressure-2.md",
+    "CREATION-LOG.md",
+    "test-academic.md",
+    "defense-in-depth.md",
+    "SKILL.md",
+    "test-pressure-3.md",
+    "root-cause-tracing.md",
+    "condition-based-waiting-example.ts",
+    "find-polluter.sh"
+  ]
+}
